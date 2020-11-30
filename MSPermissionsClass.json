@@ -1,0 +1,2158 @@
+[
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "AnalyzeC", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-AnalyzeC-PCI-N-ShowConsume", 
+          "powername": "冠脉显示耗材", 
+          "rolecode": "Role-心内科-AnalyzeC-PCI-N-Consume", 
+          "rolename": "冠脉AnalyzeC耗材角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "AnalyzeC", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-AnalyzeC-PCI-N-ShowLesion", 
+          "powername": "冠脉显示病变", 
+          "rolecode": "Role-心内科-AnalyzeC-PCI-N-Lesion", 
+          "rolename": "冠脉AnalyzeC病变角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "AnalyzeC", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-AnalyzeC-PCI-N-Login", 
+          "powername": "冠脉登陆权限", 
+          "rolecode": "Role-心内科-AnalyzeC-PCI-N-Login", 
+          "rolename": "冠脉AnalyzeC登录角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "AnalyzeC", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-AnalyzeC-PCI-N-ShowSummarize", 
+          "powername": "冠脉显示概述", 
+          "rolecode": "Role-心内科-AnalyzeC-PCI-N-Summarize", 
+          "rolename": "冠脉AnalyzeC概述角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "AnalyzeC", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-AnalyzeC-PCI-N-ShowWorkload", 
+          "powername": "冠脉显示工作量", 
+          "rolecode": "Role-心内科-AnalyzeC-PCI-N-Workload", 
+          "rolename": "冠脉AnalyzeC工作量角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "AnalyzeC", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-AnalyzeC-PM-N-ShowConsume", 
+          "powername": "起搏器显示耗材", 
+          "rolecode": "Role-心内科-AnalyzeC-PM-N-Consume", 
+          "rolename": "起搏器AnalyzeC耗材角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "AnalyzeC", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-AnalyzeC-PM-N-ShowLesion", 
+          "powername": "起搏器显示手术详情", 
+          "rolecode": "Role-心内科-AnalyzeC-PM-N-Lesion", 
+          "rolename": "起搏器AnalyzeC手术详情角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "AnalyzeC", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-AnalyzeC-PM-N-Login", 
+          "powername": "起搏器登陆权限", 
+          "rolecode": "Role-心内科-AnalyzeC-PM-N-Login", 
+          "rolename": "起搏器AnalyzeC登录角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "AnalyzeC", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-AnalyzeC-PCI-N-ShowWorkload", 
+          "powername": "冠脉显示工作量", 
+          "rolecode": "Role-心内科-AnalyzeC-PM-N-Summarize", 
+          "rolename": "起搏器AnalyzeC概述角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "AnalyzeC", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-AnalyzeC-PM-N-ShowWorkload", 
+          "powername": "起搏器显示工作量", 
+          "rolecode": "Role-心内科-AnalyzeC-PM-N-Workload", 
+          "rolename": "起搏器AnalyzeC工作量角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "AnalyzeC", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-AnalyzeC-RF-N-ShowConsume", 
+          "powername": "电生理显示耗材", 
+          "rolecode": "Role-心内科-AnalyzeC-RF-N-Consume", 
+          "rolename": "电生理AnalyzeC耗材角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "AnalyzeC", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-AnalyzeC-RF-N-ShowLesion", 
+          "powername": "电生理显示病变", 
+          "rolecode": "Role-心内科-AnalyzeC-RF-N-Lesion", 
+          "rolename": "电生理AnalyzeC病变角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "AnalyzeC", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-AnalyzeC-RF-N-Login", 
+          "powername": "电生理登陆权限", 
+          "rolecode": "Role-心内科-AnalyzeC-RF-N-Login", 
+          "rolename": "电生理AnalyzeC登录角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "AnalyzeC", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-AnalyzeC-RF-N-ShowSummarize", 
+          "powername": "电生理显示概述", 
+          "rolecode": "Role-心内科-AnalyzeC-RF-N-Summarize", 
+          "rolename": "电生理AnalyzeC概述角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "AnalyzeC", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-AnalyzeC-RF-N-ShowWorkload", 
+          "powername": "电生理显示工作量", 
+          "rolecode": "Role-心内科-AnalyzeC-RF-N-Workload", 
+          "rolename": "电生理AnalyzeC工作量角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "BackManager", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-BackManager-AnalyzeC-N-FrontDeskUserAuthority", 
+          "powername": "AnalyzeC前台账号权限管理", 
+          "rolecode": "Role-心内科-BackManager-AnalyzeC-N-FrontDeskUserAuthority", 
+          "rolename": "AnalyzeC前台账号管理角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "BackManager", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-BackManager-Care-N-ShowDataMaintain", 
+          "powername": "显示Care数据维护", 
+          "rolecode": "Role-心内科-BackManager-Care-N-DataMaintain", 
+          "rolename": "Care数据维护角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "BackManager", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-BackManager-Care-N-FrontDeskUserAuthority", 
+          "powername": "Care前台账号权限管理", 
+          "rolecode": "Role-心内科-BackManager-Care-N-FrontDeskUserAuthority", 
+          "rolename": "Care前台账号管理角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "BackManager", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-BackManager-N-N-login", 
+          "powername": "后端登陆权限", 
+          "rolecode": "Role-心内科-BackManager-N-N-AccountAdmin", 
+          "rolename": "账号管理员角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "BackManager", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-BackManager-N-N-ShowFrontDeskList", 
+          "powername": "显示前台列表", 
+          "rolecode": "Role-心内科-BackManager-N-N-AccountAdmin", 
+          "rolename": "账号管理员角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "BackManager", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-BackManager-N-N-ShowUserAuthority", 
+          "powername": "显示用户与权限", 
+          "rolecode": "Role-心内科-BackManager-N-N-AccountAdmin", 
+          "rolename": "账号管理员角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "BackManager", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-BackManager-N-N-ImportExportDataMaintain", 
+          "powername": "导入导出数据维护项", 
+          "rolecode": "Role-心内科-BackManager-N-N-DataManager", 
+          "rolename": "修改者角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "BackManager", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-BackManager-N-N-login", 
+          "powername": "后端登陆权限", 
+          "rolecode": "Role-心内科-BackManager-N-N-DataManager", 
+          "rolename": "修改者角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "BackManager", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-BackManager-N-N-ShowDataMaintainConfig", 
+          "powername": "显示数据维护与配置", 
+          "rolecode": "Role-心内科-BackManager-N-N-DataManager", 
+          "rolename": "修改者角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "BackManager", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-BackManager-N-N-ImportExportDataMaintain", 
+          "powername": "导入导出数据维护项", 
+          "rolecode": "Role-心内科-BackManager-N-N-Reviewer", 
+          "rolename": "审核者角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "BackManager", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-BackManager-N-N-login", 
+          "powername": "后端登陆权限", 
+          "rolecode": "Role-心内科-BackManager-N-N-Reviewer", 
+          "rolename": "审核者角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "BackManager", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-BackManager-N-N-AuditDataMaintain", 
+          "powername": "审核数据维护项", 
+          "rolecode": "Role-心内科-BackManager-N-N-Reviewer", 
+          "rolename": "审核者角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "BackManager", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-BackManager-N-N-ShowDataMaintainConfig", 
+          "powername": "显示数据维护与配置", 
+          "rolecode": "Role-心内科-BackManager-N-N-Reviewer", 
+          "rolename": "审核者角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "BackManager", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-BackManager-N-N-ShowConsumeMasterList", 
+          "powername": "", 
+          "rolecode": "Role-心内科-BackManager-N-N-Yawlih", 
+          "rolename": "yawlih角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "BackManager", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-BackManager-N-N-ShowDrugMasterList", 
+          "powername": "", 
+          "rolecode": "Role-心内科-BackManager-N-N-Yawlih", 
+          "rolename": "yawlih角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "BackManager", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-BackManager-AnalyzeC-N-ShowDataConfig", 
+          "powername": "", 
+          "rolecode": "Role-心内科-BackManager-N-N-Yawlih", 
+          "rolename": "yawlih角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "BackManager", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-BackManager-PCI&RF&PM-N-ShowDataConfig", 
+          "powername": "", 
+          "rolecode": "Role-心内科-BackManager-N-N-Yawlih", 
+          "rolename": "yawlih角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "BackManager", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-BackManager-Care-N-ShowDataConfig", 
+          "powername": "", 
+          "rolecode": "Role-心内科-BackManager-N-N-Yawlih", 
+          "rolename": "yawlih角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "BackManager", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-BackManager-N-N-ShowAssayMasterList", 
+          "powername": "", 
+          "rolecode": "Role-心内科-BackManager-N-N-Yawlih", 
+          "rolename": "yawlih角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "BackManager", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-BackManager-N-N-ShowSystemConfig", 
+          "powername": "", 
+          "rolecode": "Role-心内科-BackManager-N-N-Yawlih", 
+          "rolename": "yawlih角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "BackManager", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-BackManager-AnalyzeC-N-FrontDeskUserAuthority", 
+          "powername": "AnalyzeC前台账号权限管理", 
+          "rolecode": "Role-心内科-BackManager-N-N-Yawlih", 
+          "rolename": "yawlih角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "BackManager", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-BackManager-Care-N-FrontDeskUserAuthority", 
+          "powername": "Care前台账号权限管理", 
+          "rolecode": "Role-心内科-BackManager-N-N-Yawlih", 
+          "rolename": "yawlih角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "BackManager", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-BackManager-N-N-ShowBackManagerList", 
+          "powername": "Yawlih特有权限", 
+          "rolecode": "Role-心内科-BackManager-N-N-Yawlih", 
+          "rolename": "yawlih角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "BackManager", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-BackManager-PCI&RF&PM-N-FrontDeskUserAuthority", 
+          "powername": "导管室前台账号权限管理", 
+          "rolecode": "Role-心内科-BackManager-N-N-Yawlih", 
+          "rolename": "yawlih角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "BackManager", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-BackManager-N-N-ImportExportDataMaintain", 
+          "powername": "导入导出数据维护项", 
+          "rolecode": "Role-心内科-BackManager-N-N-Yawlih", 
+          "rolename": "yawlih角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "BackManager", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-BackManager-N-N-login", 
+          "powername": "后端登陆权限", 
+          "rolecode": "Role-心内科-BackManager-N-N-Yawlih", 
+          "rolename": "yawlih角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "BackManager", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-BackManager-N-N-AuditDataMaintain", 
+          "powername": "审核数据维护项", 
+          "rolecode": "Role-心内科-BackManager-N-N-Yawlih", 
+          "rolename": "yawlih角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "BackManager", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-BackManager-Care-N-ShowDataMaintain", 
+          "powername": "显示Care数据维护", 
+          "rolecode": "Role-心内科-BackManager-N-N-Yawlih", 
+          "rolename": "yawlih角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "BackManager", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-BackManager-PCI&RF&PM-N-ShowDataMaintain", 
+          "powername": "显示导管室数据维护", 
+          "rolecode": "Role-心内科-BackManager-N-N-Yawlih", 
+          "rolename": "yawlih角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "BackManager", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-BackManager-RF-N-ShowDataMaintain", 
+          "powername": "显示电生理数据维护", 
+          "rolecode": "Role-心内科-BackManager-N-N-Yawlih", 
+          "rolename": "yawlih角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "BackManager", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-BackManager-PCI-N-ShowDataMaintain", 
+          "powername": "显示冠脉数据维护", 
+          "rolecode": "Role-心内科-BackManager-N-N-Yawlih", 
+          "rolename": "yawlih角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "BackManager", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-BackManager-PM-N-ShowDataMaintain", 
+          "powername": "显示起搏器数据维护", 
+          "rolecode": "Role-心内科-BackManager-N-N-Yawlih", 
+          "rolename": "yawlih角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "BackManager", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-BackManager-N-N-ShowFrontDeskList", 
+          "powername": "显示前台列表", 
+          "rolecode": "Role-心内科-BackManager-N-N-Yawlih", 
+          "rolename": "yawlih角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "BackManager", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-BackManager-N-N-ShowDataMaintainConfig", 
+          "powername": "显示数据维护与配置", 
+          "rolecode": "Role-心内科-BackManager-N-N-Yawlih", 
+          "rolename": "yawlih角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "BackManager", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-BackManager-N-N-ShowUserAuthority", 
+          "powername": "显示用户与权限", 
+          "rolecode": "Role-心内科-BackManager-N-N-Yawlih", 
+          "rolename": "yawlih角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "BackManager", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-BackManager-PCI&RF&PM-N-ShowDataMaintain", 
+          "powername": "显示导管室数据维护", 
+          "rolecode": "Role-心内科-BackManager-PCI&RF&PM-N-DataMaintain", 
+          "rolename": "导管室数据维护角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "BackManager", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-BackManager-PCI&RF&PM-N-FrontDeskUserAuthority", 
+          "powername": "导管室前台账号权限管理", 
+          "rolecode": "Role-心内科-BackManager-PCI&RF&PM-N-FrontDeskUserAuthority", 
+          "rolename": "导管室前台账号管理角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "BackManager", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-BackManager-PCI-N-ShowDataMaintain", 
+          "powername": "显示冠脉数据维护", 
+          "rolecode": "Role-心内科-BackManager-PCI-N-DataMaintain", 
+          "rolename": "冠脉数据维护角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "BackManager", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-BackManager-PM-N-ShowDataMaintain", 
+          "powername": "显示起搏器数据维护", 
+          "rolecode": "Role-心内科-BackManager-PM-N-DataMaintain", 
+          "rolename": "起搏器数据维护角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "BackManager", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-BackManager-RF-N-ShowDataMaintain", 
+          "powername": "显示电生理数据维护", 
+          "rolecode": "Role-心内科-BackManager-RF-N-DataMaintain", 
+          "rolename": "电生理数据维护角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Care-N-N-Login", 
+          "powername": "Care登录权限", 
+          "rolecode": "Role-心内科-Care-N-N-Login", 
+          "rolename": "Care登录角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Care-N-N-ViewHospitalFollow", 
+          "powername": "查看住院、随访", 
+          "rolecode": "Role-心内科-Care-N-N-随访员", 
+          "rolename": "随访员角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Care-N-N-CreateFollow", 
+          "powername": "创建随访", 
+          "rolecode": "Role-心内科-Care-N-N-随访员", 
+          "rolename": "随访员角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Care-N-N-PrintExport", 
+          "powername": "打印、导出", 
+          "rolecode": "Role-心内科-Care-N-N-随访员", 
+          "rolename": "随访员角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Care-N-N-SubmitFollow", 
+          "powername": "提交随访", 
+          "rolecode": "Role-心内科-Care-N-N-随访员", 
+          "rolename": "随访员角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Care-N-N-SubmitCustomFollowQuestionGroup", 
+          "powername": "提交自定义题组（随访）", 
+          "rolecode": "Role-心内科-Care-N-N-随访员", 
+          "rolename": "随访员角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Care-N-N-FillInFollow", 
+          "powername": "填写随访", 
+          "rolecode": "Role-心内科-Care-N-N-随访员", 
+          "rolename": "随访员角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Care-N-N-FillInCustomFollowQuestionGroup", 
+          "powername": "填写自定义题组（随访）", 
+          "rolecode": "Role-心内科-Care-N-N-随访员", 
+          "rolename": "随访员角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Care-N-N-CustomQuestionGroupPrintExport", 
+          "powername": "自定义题组打印导出", 
+          "rolecode": "Role-心内科-Care-N-N-随访员", 
+          "rolename": "随访员角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Report-PCI&RF&PM-N-UpdateOperationReportDone", 
+          "powername": "变更手术报告状态为已完成", 
+          "rolecode": "Role-心内科-Report&Care-N-N-管理", 
+          "rolename": "医生角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Report-PCI&RF&PM-N-UpdateOperationReportDone", 
+          "powername": "变更手术报告状态为已完成", 
+          "rolecode": "Role-心内科-Report&Care-N-N-管理", 
+          "rolename": "管理角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Care-N-N-ChangeTSQuestionGroup", 
+          "powername": "变更暂存题组", 
+          "rolecode": "Role-心内科-Report&Care-N-N-管理", 
+          "rolename": "医生角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Care-N-N-ViewQuestionInQuestionBank", 
+          "powername": "查看题库中的题目", 
+          "rolecode": "Role-心内科-Report&Care-N-N-管理", 
+          "rolename": "医生角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Care-N-N-ViewHospitalFollow", 
+          "powername": "查看住院、随访", 
+          "rolecode": "Role-心内科-Report&Care-N-N-管理", 
+          "rolename": "管理角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Care-N-N-ViewHospitalFollow", 
+          "powername": "查看住院、随访", 
+          "rolecode": "Role-心内科-Report&Care-N-N-管理", 
+          "rolename": "医生角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Care-N-N-ViewCustomQuestionGroup", 
+          "powername": "查看自定义题组", 
+          "rolecode": "Role-心内科-Report&Care-N-N-管理", 
+          "rolename": "医生角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Report-PCI-N-FindDicom", 
+          "powername": "查询冠脉Dicom", 
+          "rolecode": "Role-心内科-Report&Care-N-N-管理", 
+          "rolename": "医生角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Report-PCI-N-FindDicom", 
+          "powername": "查询冠脉Dicom", 
+          "rolecode": "Role-心内科-Report&Care-N-N-管理", 
+          "rolename": "管理角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Care-N-N-CreatePatient", 
+          "powername": "创建患者", 
+          "rolecode": "Role-心内科-Report&Care-N-N-管理", 
+          "rolename": "医生角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Report-PCI&RF&PM-N-CreateOperationReport", 
+          "powername": "创建手术报告", 
+          "rolecode": "Role-心内科-Report&Care-N-N-管理", 
+          "rolename": "医生角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Care-N-N-CreateFollow", 
+          "powername": "创建随访", 
+          "rolecode": "Role-心内科-Report&Care-N-N-管理", 
+          "rolename": "医生角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Care-N-N-CreateHospital", 
+          "powername": "创建住院", 
+          "rolecode": "Role-心内科-Report&Care-N-N-管理", 
+          "rolename": "医生角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Care-N-N-CreateCustomQuestionGroup", 
+          "powername": "创建自定义题组", 
+          "rolecode": "Role-心内科-Report&Care-N-N-管理", 
+          "rolename": "医生角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Care-N-N-PrintExport", 
+          "powername": "打印、导出", 
+          "rolecode": "Role-心内科-Report&Care-N-N-管理", 
+          "rolename": "管理角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Care-N-N-PrintExport", 
+          "powername": "打印、导出", 
+          "rolecode": "Role-心内科-Report&Care-N-N-管理", 
+          "rolename": "医生角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Care-N-N-ReleaseTSQuestionGroup", 
+          "powername": "发布暂存题组", 
+          "rolecode": "Role-心内科-Report&Care-N-N-管理", 
+          "rolename": "医生角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Care-N-N-LabourMergeEMPI", 
+          "powername": "人工合并EMPI", 
+          "rolecode": "Role-心内科-Report&Care-N-N-管理", 
+          "rolename": "医生角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Care-N-N-DeletePatient", 
+          "powername": "删除患者", 
+          "rolecode": "Role-心内科-Report&Care-N-N-管理", 
+          "rolename": "管理角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Care-N-N-DeleteFollow", 
+          "powername": "删除随访", 
+          "rolecode": "Role-心内科-Report&Care-N-N-管理", 
+          "rolename": "医生角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Report-PCI&RF&PM-N-DeleteDoneOperationReport", 
+          "powername": "删除完成手术报告", 
+          "rolecode": "Role-心内科-Report&Care-N-N-管理", 
+          "rolename": "管理角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Report-PCI&RF&PM-N-DeleteUndoneOperationReport", 
+          "powername": "删除未完成手术报告", 
+          "rolecode": "Role-心内科-Report&Care-N-N-管理", 
+          "rolename": "管理角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Report-PCI&RF&PM-N-DeleteUndoneOperationReport", 
+          "powername": "删除未完成手术报告", 
+          "rolecode": "Role-心内科-Report&Care-N-N-管理", 
+          "rolename": "医生角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Care-N-N-DeleteHospital", 
+          "powername": "删除住院", 
+          "rolecode": "Role-心内科-Report&Care-N-N-管理", 
+          "rolename": "管理角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Care-N-N-DeleteCustomQuestionGroup", 
+          "powername": "删除自定义题组（住院/随访）", 
+          "rolecode": "Role-心内科-Report&Care-N-N-管理", 
+          "rolename": "医生角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Report-PCI&RF&PM-N-AuditDoneOperationReport", 
+          "powername": "审核已完成的手术报告", 
+          "rolecode": "Role-心内科-Report&Care-N-N-管理", 
+          "rolename": "管理角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Care-N-N-OperationReportRelevancyHospital", 
+          "powername": "手术报告关联住院", 
+          "rolecode": "Role-心内科-Report&Care-N-N-管理", 
+          "rolename": "医生角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Care-N-N-SubmitFollow", 
+          "powername": "提交随访", 
+          "rolecode": "Role-心内科-Report&Care-N-N-管理", 
+          "rolename": "医生角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Care-N-N-SubmitCustomFollowQuestionGroup", 
+          "powername": "提交自定义题组（随访）", 
+          "rolecode": "Role-心内科-Report&Care-N-N-管理", 
+          "rolename": "医生角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Report-PCI&RF&PM-N-AddSign", 
+          "powername": "添加标记", 
+          "rolecode": "Role-心内科-Report&Care-N-N-管理", 
+          "rolename": "管理角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Care-N-N-FillInTopic", 
+          "powername": "填写个人信息（除必填项）、既往史、个人史、家族史", 
+          "rolecode": "Role-心内科-Report&Care-N-N-管理", 
+          "rolename": "医生角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Care-N-N-FillInFollow", 
+          "powername": "填写随访", 
+          "rolecode": "Role-心内科-Report&Care-N-N-管理", 
+          "rolename": "医生角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Care-N-N-FillInHospital", 
+          "powername": "填写住院", 
+          "rolecode": "Role-心内科-Report&Care-N-N-管理", 
+          "rolename": "医生角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Care-N-N-FillInCustomFollowQuestionGroup", 
+          "powername": "填写自定义题组（随访）", 
+          "rolecode": "Role-心内科-Report&Care-N-N-管理", 
+          "rolename": "医生角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Care-N-N-FillInCustomHospitalQuestionGroup", 
+          "powername": "填写自定义题组（住院）", 
+          "rolecode": "Role-心内科-Report&Care-N-N-管理", 
+          "rolename": "医生角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Report-PCI&RF&PM-N-UpdateOperationReport", 
+          "powername": "修改未完成手术报告", 
+          "rolecode": "Role-心内科-Report&Care-N-N-管理", 
+          "rolename": "医生角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Report-PCI&RF&PM-N-UpdateOperationReport", 
+          "powername": "修改未完成手术报告", 
+          "rolecode": "Role-心内科-Report&Care-N-N-管理", 
+          "rolename": "管理角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Report-PCI&RF&PM-N-UpdateDoneOperationReport", 
+          "powername": "修改已完成手术报告", 
+          "rolecode": "Role-心内科-Report&Care-N-N-管理", 
+          "rolename": "管理角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Report-PCI&RF&PM-N-SelectSign", 
+          "powername": "选择标记", 
+          "rolecode": "Role-心内科-Report&Care-N-N-管理", 
+          "rolename": "管理角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Report-PCI&RF&PM-N-SelectSign", 
+          "powername": "选择标记", 
+          "rolecode": "Role-心内科-Report&Care-N-N-管理", 
+          "rolename": "医生角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Care-N-N-CreateQuestionInQuestionBank", 
+          "powername": "在题库中添加题目", 
+          "rolecode": "Role-心内科-Report&Care-N-N-管理", 
+          "rolename": "医生角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Care-N-N-CustomQuestionGroupPrintExport", 
+          "powername": "自定义题组打印导出", 
+          "rolecode": "Role-心内科-Report&Care-N-N-管理", 
+          "rolename": "管理角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Care-N-N-CustomQuestionGroupPrintExport", 
+          "powername": "自定义题组打印导出", 
+          "rolecode": "Role-心内科-Report&Care-N-N-管理", 
+          "rolename": "医生角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Report-PCI&RF&PM-N-UpdateOperationReportDone", 
+          "powername": "变更手术报告状态为已完成", 
+          "rolecode": "Role-心内科-Report&Care-N-N-主任", 
+          "rolename": "主任角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Care-N-N-ChangeTSQuestionGroup", 
+          "powername": "变更暂存题组", 
+          "rolecode": "Role-心内科-Report&Care-N-N-主任", 
+          "rolename": "主任角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Care-N-N-ViewQuestionInQuestionBank", 
+          "powername": "查看题库中的题目", 
+          "rolecode": "Role-心内科-Report&Care-N-N-主任", 
+          "rolename": "主任角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Care-N-N-ViewHospitalFollow", 
+          "powername": "查看住院、随访", 
+          "rolecode": "Role-心内科-Report&Care-N-N-主任", 
+          "rolename": "主任角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Care-N-N-ViewCustomQuestionGroup", 
+          "powername": "查看自定义题组", 
+          "rolecode": "Role-心内科-Report&Care-N-N-主任", 
+          "rolename": "主任角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Report-PCI-N-FindDicom", 
+          "powername": "查询冠脉Dicom", 
+          "rolecode": "Role-心内科-Report&Care-N-N-主任", 
+          "rolename": "主任角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Care-N-N-CreatePatient", 
+          "powername": "创建患者", 
+          "rolecode": "Role-心内科-Report&Care-N-N-主任", 
+          "rolename": "主任角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Report-PCI&RF&PM-N-CreateOperationReport", 
+          "powername": "创建手术报告", 
+          "rolecode": "Role-心内科-Report&Care-N-N-主任", 
+          "rolename": "主任角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Care-N-N-CreateFollow", 
+          "powername": "创建随访", 
+          "rolecode": "Role-心内科-Report&Care-N-N-主任", 
+          "rolename": "主任角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Care-N-N-CreateHospital", 
+          "powername": "创建住院", 
+          "rolecode": "Role-心内科-Report&Care-N-N-主任", 
+          "rolename": "主任角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Care-N-N-CreateCustomQuestionGroup", 
+          "powername": "创建自定义题组", 
+          "rolecode": "Role-心内科-Report&Care-N-N-主任", 
+          "rolename": "主任角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Care-N-N-PrintExport", 
+          "powername": "打印、导出", 
+          "rolecode": "Role-心内科-Report&Care-N-N-主任", 
+          "rolename": "主任角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Care-N-N-ReleaseTSQuestionGroup", 
+          "powername": "发布暂存题组", 
+          "rolecode": "Role-心内科-Report&Care-N-N-主任", 
+          "rolename": "主任角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Care-N-N-LabourMergeEMPI", 
+          "powername": "人工合并EMPI", 
+          "rolecode": "Role-心内科-Report&Care-N-N-主任", 
+          "rolename": "主任角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Care-N-N-DeleteFollow", 
+          "powername": "删除随访", 
+          "rolecode": "Role-心内科-Report&Care-N-N-主任", 
+          "rolename": "主任角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Report-PCI&RF&PM-N-DeleteDoneOperationReport", 
+          "powername": "删除完成手术报告", 
+          "rolecode": "Role-心内科-Report&Care-N-N-主任", 
+          "rolename": "主任角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Report-PCI&RF&PM-N-DeleteUndoneOperationReport", 
+          "powername": "删除未完成手术报告", 
+          "rolecode": "Role-心内科-Report&Care-N-N-主任", 
+          "rolename": "主任角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Care-N-N-DeleteHospital", 
+          "powername": "删除住院", 
+          "rolecode": "Role-心内科-Report&Care-N-N-主任", 
+          "rolename": "主任角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Care-N-N-DeleteCustomQuestionGroup", 
+          "powername": "删除自定义题组（住院/随访）", 
+          "rolecode": "Role-心内科-Report&Care-N-N-主任", 
+          "rolename": "主任角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Report-PCI&RF&PM-N-AuditDoneOperationReport", 
+          "powername": "审核已完成的手术报告", 
+          "rolecode": "Role-心内科-Report&Care-N-N-主任", 
+          "rolename": "主任角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Care-N-N-OperationReportRelevancyHospital", 
+          "powername": "手术报告关联住院", 
+          "rolecode": "Role-心内科-Report&Care-N-N-主任", 
+          "rolename": "主任角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Care-N-N-SubmitFollow", 
+          "powername": "提交随访", 
+          "rolecode": "Role-心内科-Report&Care-N-N-主任", 
+          "rolename": "主任角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Care-N-N-SubmitCustomFollowQuestionGroup", 
+          "powername": "提交自定义题组（随访）", 
+          "rolecode": "Role-心内科-Report&Care-N-N-主任", 
+          "rolename": "主任角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Report-PCI&RF&PM-N-AddSign", 
+          "powername": "添加标记", 
+          "rolecode": "Role-心内科-Report&Care-N-N-主任", 
+          "rolename": "主任角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Care-N-N-FillInTopic", 
+          "powername": "填写个人信息（除必填项）、既往史、个人史、家族史", 
+          "rolecode": "Role-心内科-Report&Care-N-N-主任", 
+          "rolename": "主任角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Care-N-N-FillInFollow", 
+          "powername": "填写随访", 
+          "rolecode": "Role-心内科-Report&Care-N-N-主任", 
+          "rolename": "主任角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Care-N-N-FillInHospital", 
+          "powername": "填写住院", 
+          "rolecode": "Role-心内科-Report&Care-N-N-主任", 
+          "rolename": "主任角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Care-N-N-FillInCustomFollowQuestionGroup", 
+          "powername": "填写自定义题组（随访）", 
+          "rolecode": "Role-心内科-Report&Care-N-N-主任", 
+          "rolename": "主任角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Care-N-N-FillInCustomHospitalQuestionGroup", 
+          "powername": "填写自定义题组（住院）", 
+          "rolecode": "Role-心内科-Report&Care-N-N-主任", 
+          "rolename": "主任角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Report-PCI&RF&PM-N-UpdateOperationReport", 
+          "powername": "修改未完成手术报告", 
+          "rolecode": "Role-心内科-Report&Care-N-N-主任", 
+          "rolename": "主任角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Report-PCI&RF&PM-N-UpdateDoneOperationReport", 
+          "powername": "修改已完成手术报告", 
+          "rolecode": "Role-心内科-Report&Care-N-N-主任", 
+          "rolename": "主任角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Report-PCI&RF&PM-N-SelectSign", 
+          "powername": "选择标记", 
+          "rolecode": "Role-心内科-Report&Care-N-N-主任", 
+          "rolename": "主任角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Care-N-N-DeleteQuestionInQuestionBank", 
+          "powername": "在题库中删除题目", 
+          "rolecode": "Role-心内科-Report&Care-N-N-主任", 
+          "rolename": "主任角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Care-N-N-CreateQuestionInQuestionBank", 
+          "powername": "在题库中添加题目", 
+          "rolecode": "Role-心内科-Report&Care-N-N-主任", 
+          "rolename": "主任角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report&Care", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Care-N-N-CustomQuestionGroupPrintExport", 
+          "powername": "自定义题组打印导出", 
+          "rolecode": "Role-心内科-Report&Care-N-N-主任", 
+          "rolename": "主任角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-AnalyzeC-PCI-N-ExportOriginalData", 
+          "powername": "冠脉导出原始数据", 
+          "rolecode": "Role-心内科-Report-PCI-N-ExportOriginalData", 
+          "rolename": "冠脉原始数据导出角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-AnalyzeC-PCI-N-ExportReport", 
+          "powername": "冠脉导出报告", 
+          "rolecode": "Role-心内科-Report-PCI-N-ExportReport", 
+          "rolename": "冠脉报告导出角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Report-PCI-N-Login", 
+          "powername": "冠脉前端登陆权限", 
+          "rolecode": "Role-心内科-Report-PCI-N-Login", 
+          "rolename": "冠脉登录角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-AnalyzeC-PCI-N-VisibleConsume", 
+          "powername": "冠脉可见耗材", 
+          "rolecode": "Role-心内科-Report-PCI-N-VisibleConsumae", 
+          "rolename": "冠脉可见耗材角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-AnalyzeC-PM-N-ExportOriginalData", 
+          "powername": "起搏器导出原始数据", 
+          "rolecode": "Role-心内科-Report-PM-N-ExportOriginalData", 
+          "rolename": "起搏器原始数据导出角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-AnalyzeC-PM-N-ExportReport", 
+          "powername": "起搏器导出报告", 
+          "rolecode": "Role-心内科-Report-PM-N-ExportReport", 
+          "rolename": "起搏器报告导出角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Report-PM-N-Login", 
+          "powername": "起搏器前端登陆权限", 
+          "rolecode": "Role-心内科-Report-PM-N-Login", 
+          "rolename": "起搏器登录角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-AnalyzeC-PM-N-VisibleConsume", 
+          "powername": "起搏器可见耗材", 
+          "rolecode": "Role-心内科-Report-PM-N-VisibleConsumae", 
+          "rolename": "起搏器可见耗材角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-AnalyzeC-RF-N-ExportOriginalData", 
+          "powername": "电生理导出原始数据", 
+          "rolecode": "Role-心内科-Report-RF-N-ExportOriginalData", 
+          "rolename": "电生理原始数据导出角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-AnalyzeC-RF-N-ExportReport", 
+          "powername": "电生理导出报告", 
+          "rolecode": "Role-心内科-Report-RF-N-ExportReport", 
+          "rolename": "电生理报告导出角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-Report-RF-N-Login", 
+          "powername": "电生理前端登陆权限", 
+          "rolecode": "Role-心内科-Report-RF-N-Login", 
+          "rolename": "电生理登录角色"
+        }
+      ]
+    }
+  }, 
+  {
+    "Department": "心内科", 
+    "Product": {
+      "ProductName": "Report", 
+      "Roles": [
+        {
+          "powercode": "Power-心内科-AnalyzeC-RF-N-VisibleConsume", 
+          "powername": "电生理可见耗材", 
+          "rolecode": "Role-心内科-Report-RF-N-VisibleConsumae", 
+          "rolename": "电生理可见耗材角色"
+        }
+      ]
+    }
+  }
+]

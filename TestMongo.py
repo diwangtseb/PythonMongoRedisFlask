@@ -5,9 +5,9 @@
 #
 # myGoods=myclient["Goods"]
 # myBooks=myGoods['Books']
-
-#插入
-#willBook={"name":"亲热天堂","price":180,"repertory":32}
+#
+# #插入
+# willBook={"name":"亲热天堂","price":180,"repertory":32}
 # willBook=[{"name":"英雄联盟","price":1,"repertory":143},
 #           {"name":"起凡三国","price":2,"repertory":23},
 #           {"name":"三国战记","price":10,"repertory":33},
